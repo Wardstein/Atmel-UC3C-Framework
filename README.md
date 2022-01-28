@@ -6,3 +6,7 @@ The IO and PWM driver are originally based on functions from "Zippy" out of the 
 
 # Examples
 Recently I got asked how to use the SPI master. In this gist you can find an example which uses an ADS795x ADC: https://gist.github.com/Wardstein/e742c5e81a799e59e557fb9a73a49664
+
+
+# Contribution
+If you are in need of new functions, some hardware features are missing or you have found something that does not work: Feel free to get in touch, open an issue or file a pull request ;-)
